@@ -34,13 +34,22 @@ Die Hardware für dieses Projekt:
 - Den Start-Taster an GPIO 19 anschließen.
 - Den Temperatur-Vorwahl-Taster an GPIO 23 anschließen.
 - Das Relais an GPIO 5 anschließen.
-- 
+
+
+### Temperatur Vorwahl
 
 ![Bild](/pic/tvorwahl.png)
 
+
+### Temperaturregelung ON
+
 ![Bild](/pic/treglungon.png)
 
+### Temperaturregelung OFF
+
 ![Bild](/pic/treglungoff.png)
+
+
 
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
