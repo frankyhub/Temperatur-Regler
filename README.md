@@ -5,10 +5,10 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Temperatur-Regler/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Temperatur-Regler/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Temperatur-Regler/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2039-blue)|<a href="https://github.com/frankyhub/Temperatur-Regler/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Temperatur-Regler)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Temperatur-Regler)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Temperatur-Regler)| <a href="https://github.com/frankyhub/Temperatur-Regler/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Temperatur-Regler/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
-</div>
+<a href="https://github.com/frankyhub/Temperatur-Regler/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Temperatur-Regler)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Temperatur-Regler)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2039-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Temperatur-Regler)| <a href="https://github.com/frankyhub/Temperatur-Regler/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Temperatur-Regler/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
+</div>
 
 
 # Temperatur-Regler
@@ -49,18 +49,19 @@ Die Hardware für dieses Projekt:
 
 ### Temperatur Vorwahl
 
-![Bild](/pic/tvorwahl.png)
+<img src="pic/tvorwahl.png" width="500"> 
+<br> <br>
 
 
 ### Temperaturregelung ON
 
-![Bild](/pic/treglungon.png)
+<img src="pic/treglungon.png" width="500"> 
+<br> <br>
 
 ### Temperaturregelung OFF
 
-![Bild](/pic/treglungoff.png)
-
-
+<img src="pic/treglungoff.png" width="500"> 
+<br> <br>
 
 ---
 
