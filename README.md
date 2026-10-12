@@ -5,17 +5,13 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Temperatur-Regler/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Temperatur-Regler/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Temperatur-Regler/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/Temperatur-Regler/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Temperatur-Regler)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Temperatur-Regler)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2039-blue)|
+<a href="https://github.com/frankyhub/Temperatur-Regler/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Temperatur-Regler)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Temperatur-Regler)|<a href="https://github.com/frankyhub/Temperatur-Regler/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Temperatur-Regler)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20037-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Temperatur-Regler)| <a href="https://github.com/frankyhub/Temperatur-Regler/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Temperatur-Regler/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 </div>
 
-
-# Temperatur-Regler
-2-Punkt Temperaturregelung mit Display
-
 ## Story
-Das ist ein Programm für eine 2-Punkt Temperaturregelung. Beim Start kann der Sollwert vorgegeben werden. Nach Betätigung der Start-Taste startet die Regelung und zeigt den IST-Wert und den SOLL-Wert am Display an. Zusätzlich erhält man am Display die Info, ob der Relaisausgang on oder off ist.
+Das ist ein Programm für eine 2-Punkt Temperaturregelung mit Display. Beim Start kann der Sollwert vorgegeben werden. Nach Betätigung der Start-Taste startet die Regelung und zeigt den IST-Wert und den SOLL-Wert am Display an. Zusätzlich erhält man am Display die Info, ob der Relaisausgang on oder off ist.
 
 ## Hardware
 
